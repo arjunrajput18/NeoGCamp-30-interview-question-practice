@@ -1,0 +1,24 @@
+:root{
+    --primary-color:#a21caf
+}
+label{
+    margin: 3rem;
+    display: block;
+}
+
+body{
+    text-align: center;
+}
+
+button{
+background-color: var(--primary-color);
+color: white;
+padding: 0.8rem 0.8rem;
+border-radius: 0.5rem 0.5rem;
+border: 1px solid var(--primary-color);
+}
+input{
+    border: 1px solid var(--primary-color);
+    padding: 0.5rem 0.5rem;
+    border-radius: 0.5rem 0.5rem;
+}
