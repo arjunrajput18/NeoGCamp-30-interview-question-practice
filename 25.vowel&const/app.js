@@ -35,7 +35,7 @@
 
 
 // wordsType.addEventListener("input",wordHandler)
-
+//New way to solve
 // Create a web app to take text input from the user and show the number of vowels and consonants. (spaces should not be counted)
 
 var textField = document.querySelector('#text')
