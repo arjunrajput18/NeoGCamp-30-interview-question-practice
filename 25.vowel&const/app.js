@@ -50,7 +50,7 @@ function countVowels(txt) {
  
     for (var i = 0; i < text.length; i++) {
       ch=text[i]
-      if(ch>="a" && ch<="z" || ch>="X" && ch<="Z"){
+      if(ch>="a" && ch<="z" || ch>="A" && ch<="Z"){
      
       if (
         ch=== "a" ||
